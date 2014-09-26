@@ -411,6 +411,7 @@
 				FE4EEB8519D52C2100072B55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FE4EEB8619D52C2100072B55 /* Build configuration list for PBXNativeTarget "icountdownobamaTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				FE4EEB8819D52C2100072B55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
