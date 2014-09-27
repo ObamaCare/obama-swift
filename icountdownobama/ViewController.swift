@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
             //show the current time on ui
             self.clockLabel.text = getCurrentTime()
+            NSDate(dateString:"2017-01-20")
+
 
     }
 
