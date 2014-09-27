@@ -19,9 +19,6 @@ formatter.timeStyle = .ShortStyle
 //change to string
 var stringValue = formatter.stringFromDate(date)
 
-//print to test
-print(formatter)
-
 return stringValue
 
 }
